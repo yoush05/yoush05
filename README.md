@@ -4,6 +4,7 @@ lcd를 출력하는 프로그램을 이용하여 함
 (int) 를 써서 온도를 정숫값으로 출력함 
 (char)은 문자를 의미함 
 아래 코드는 위에서 설명한 프로그램이다. 
+
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 #include <SimpleDHT.h>
